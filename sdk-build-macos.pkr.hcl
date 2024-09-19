@@ -12,7 +12,7 @@ source "tart-cli" "tart" {
   vm_name      = "sdk-build-macos"
   cpu_count    = 4
   memory_gb    = 8
-  disk_size_gb = 100
+  disk_size_gb = 160
   headless     = true
   ssh_password = "admin"
   ssh_username = "admin"
