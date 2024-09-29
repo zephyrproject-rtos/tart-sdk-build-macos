@@ -54,7 +54,7 @@ build {
       "source ~/.zprofile",
       "brew install awscli autoconf automake binutils boost ccache coreutils",
       "brew install dos2unix dtc gawk gnu-sed gperf help2man meson ncurses",
-      "brew install ninja pkg-config python@3.8 texinfo",
+      "brew install ninja pkg-config python@3.10 texinfo",
     ]
   }
 }
